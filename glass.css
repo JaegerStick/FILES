@@ -1,0 +1,42 @@
+body
+{
+  background-image: url("https://cdn.pixabay.com/photo/2017/03/16/23/47/texture-2150588_960_720.jpg");
+}
+
+h1
+{
+    text-align: center;
+   color: chocolate;
+    font-family: cursive;
+}
+
+h2
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   padding: 20px;
+}
+
+table
+{
+   width: auto;
+   border: 100%;
+
+}
+
+
+.zn
+{
+    font-size: 25px;
+}
+
+td
+{
+    font-size: 20px;
+}
+
+th
+{
+  font-size: 20px;
+  font-style: italic;
+  color: crimson;
+}
